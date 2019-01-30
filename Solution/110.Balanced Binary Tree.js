@@ -22,4 +22,4 @@ var isBalanced = function(root) {
   ans = true;
   dfs(root);
   return ans;
-};
+}; 
