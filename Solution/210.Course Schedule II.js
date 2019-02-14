@@ -43,4 +43,4 @@ var findOrder = function(numCourses, prerequisites) {
     }
   
     return finishNum === numCourses ? ans : [];
-  };
+  }; 
